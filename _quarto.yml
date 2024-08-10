@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: cyborg
     css: styles.css
     toc: true
 

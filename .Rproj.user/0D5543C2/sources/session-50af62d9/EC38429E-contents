@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "dissertation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projects.qmd
+      - books.qmd
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+editor: visual
+
