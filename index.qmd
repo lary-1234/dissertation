@@ -1,5 +1,6 @@
 ---
-title: "dissertation"
+title: "Dissertation"
+toc: true
 ---
 
 This is a Quarto website.
