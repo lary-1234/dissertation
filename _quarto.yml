@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "dissertation"
+  title: "Dissertation"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: cyborg
+    theme: sandstone
     css: styles.css
     toc: true
 
